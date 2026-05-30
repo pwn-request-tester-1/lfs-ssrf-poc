@@ -1,1 +1,1 @@
-# none
+loot filter=lfs diff=lfs merge=lfs -text
