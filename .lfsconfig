@@ -1,2 +1,2 @@
 [lfs]
-	url = http://gitaly-http:8080/git/projects/22adbc78-adfd-4f40-8c0e-4219ec52888d
+	url = http://fssrvr:7779/lfs/22adbc78-adfd-4f40-8c0e-4219ec52888d
