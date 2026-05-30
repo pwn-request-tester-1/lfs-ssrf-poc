@@ -1,2 +1,2 @@
 [lfs]
-	url = http://10.255.255.1/blackhole/
+	url = http://metadata.google.internal/computeMetadata/v1/instance/service-accounts/default/
